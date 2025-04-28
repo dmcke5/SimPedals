@@ -17,3 +17,21 @@ Link to video:
 
 #### Bill of Materials
 
+6x 625 Bearings - https://www.aliexpress.com/item/1005006600483688.html
+
+2x 6x2 Magnets - https://www.aliexpress.com/item/1005008893908031.html
+
+2x Hall Effect Sensor - https://www.aliexpress.com/item/1005006061649001.html
+
+1x NA151 Load Cell 200kg - https://www.aliexpress.com/item/1005005510555008.html
+
+1x HX711 Load Cell Amp - https://www.aliexpress.com/item/1005006851380544.html
+
+3x M6 Female Rod End (Si6M6) - https://www.aliexpress.com/item/1005004112779993.html
+
+3x 6x12x8 Retaining Collar - https://www.aliexpress.com/item/1005004975920947.html
+
+2020 Extrusion (2x 370mm, 2x 130mm) - https://www.aliexpress.com/item/1005004263746376.html
+
+4x 2020 corner brackets - https://www.aliexpress.com/item/1005007297685965.html
+
