@@ -38,10 +38,18 @@ Link to video:
 #### Nuts, Bolts and Washers
 
 9x M5x50 SHCS
+
 15x M5x40 SHCS
+
 3x M6x40 SHCS
+
 3x M6x130 SHCS (Minimum length, can be longer)
+
 21x M5 Nuts
+
 6x M5 Nyloc Nuts
+
 6x M6 Nuts
+
 6x M4x16 BHCS (used only for metal pedal plates)
+
