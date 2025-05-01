@@ -9,6 +9,8 @@ All of the pedal bodies are interchangeable so you can build any combination of 
 
 There are two folders that contain the parts you will need, Metal components and Printed components. The printed components are just .STL files and have quantities in their file names assuming a standard 3 pedal setup. For the metal components I have provided a STEP and DXF file for each part and a PDF with basic folding instructions for the folded parts which should be enough information for any cut service.
 
+There are two different types of pedal plates included. Printed and metal. If you aren't using the metal version, there is no need to print the pedal mounts or the pedal form as the printed pedals incorporate the mount and the plate into one part. 
+
 If you're planning to fold your own parts, you can just order 6x of the "3mm Pedal Base Plate" and ignore the "3mm Pedal Base Plate Mirrored" file as they are identical parts just folded the opposite direction. This will save you some money!
 
 I've not included any software yet but I will once I integrate the pedals, shifter and wheel all into one device.
