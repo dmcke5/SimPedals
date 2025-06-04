@@ -15,7 +15,7 @@ If you're planning to fold your own parts, you can just order 6x of the "3mm Ped
 
 I've not included any software yet but I will once I integrate the pedals, shifter and wheel all into one device.
 
-Link to video:
+Link to video: https://youtu.be/44LWekyILmk
 
 #### Bill of Materials
 
